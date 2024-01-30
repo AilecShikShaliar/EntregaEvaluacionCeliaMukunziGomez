@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dde08bf5a93d62e4a8883e27283d5bb6, type: 3}
+  m_Name: C12
+  m_EditorClassIdentifier: 
+  storyText: 'T/N:
+
+
+    No digo que no lo seas, pero en un
+
+    hospital no he visto
+    a nadie vestir
+
+    con sudadera y bata...'
+  nextStates:
+  - {fileID: 11400000, guid: 180ba9c507cf1b347964be63a9ecc01b, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  imagenState: {fileID: 21300000, guid: 573b93e9e16aaa14ebbf1fef2351eaac, type: 3}

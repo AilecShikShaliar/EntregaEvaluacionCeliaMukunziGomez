@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dde08bf5a93d62e4a8883e27283d5bb6, type: 3}
+  m_Name: B.C.D(DECISION)
+  m_EditorClassIdentifier: 
+  storyText: "1- \xBFT\xFA crees que soy idiota o...?\n\n2- No me digas eso...\n\n3-
+    Eso es bueno, cada d\xEDa que pierda la memoria me \nquedar\xEDa ensimismada
+    viendo esa carita tan \nbella que me cargas."
+  nextStates:
+  - {fileID: 11400000}
+  - {fileID: 11400000, guid: ad177bb564ed09b4a907d75ba9ef52d0, type: 2}
+  - {fileID: 11400000, guid: 907419a9fb47dc1449b837fae98bb85f, type: 2}
+  - {fileID: 11400000, guid: 438d0cc308c28f44ebb3e33e726f9d0c, type: 2}
+  imagenState: {fileID: 21300000, guid: 573b93e9e16aaa14ebbf1fef2351eaac, type: 3}

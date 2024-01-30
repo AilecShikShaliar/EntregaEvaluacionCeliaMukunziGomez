@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dde08bf5a93d62e4a8883e27283d5bb6, type: 3}
+  m_Name: B9
+  m_EditorClassIdentifier: 
+  storyText: "T/N:\n\nBueno, dejemonos de bromas...\n\xBFQu\xE9 me ha sucedico realmente?\n"
+  nextStates:
+  - {fileID: 11400000, guid: 71c3632ee39ed6c4ba8ec26fdd30f658, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  - {fileID: 11400000}
+  imagenState: {fileID: 21300000, guid: 0486716a96d91c544853ecbace70c47d, type: 3}
