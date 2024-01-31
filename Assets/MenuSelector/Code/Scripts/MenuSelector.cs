@@ -21,4 +21,9 @@ public class MenuSelector : MonoBehaviour
         SceneManager.LoadScene("MainMenu1942");
 
     }
+   public void TetrisGame()
+    {
+        SceneManager.LoadScene("SampleScene");
+
+    }
 }

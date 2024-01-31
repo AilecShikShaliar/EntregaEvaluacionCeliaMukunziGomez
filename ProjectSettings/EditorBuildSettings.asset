@@ -23,6 +23,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/1942/Levels/Scenes/Game1942.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/TetrisGame/Scenes/SampleScene.unity
+    guid: 01107821d4973ed4cbb50391ee57d40d
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 67b2ec6124b63e942856ad644e50b931, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 44c3b477803340c408145e7345555a85, type: 2}
