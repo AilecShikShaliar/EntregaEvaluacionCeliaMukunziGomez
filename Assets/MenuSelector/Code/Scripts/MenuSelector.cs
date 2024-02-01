@@ -26,4 +26,16 @@ public class MenuSelector : MonoBehaviour
         SceneManager.LoadScene("SampleScene");
 
     }
+
+    public void PacmanGame()
+    {
+        SceneManager.LoadScene("PacmanGame");
+
+    }
+
+    public void SuikaGame()
+    {
+        SceneManager.LoadScene("SuikaGame");
+
+    }
 }

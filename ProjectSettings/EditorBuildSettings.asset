@@ -26,6 +26,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/TetrisGame/Scenes/SampleScene.unity
     guid: 01107821d4973ed4cbb50391ee57d40d
+  - enabled: 1
+    path: Assets/PACMAN/Levels/Scenes/PacmanGame.unity
+    guid: 2a5a21fa18ab59a43a5642343e5bd297
+  - enabled: 1
+    path: Assets/Suika/Levels/Scenes/SuikaGame.unity
+    guid: 8221d923c391fdd49beb235949cdd714
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 67b2ec6124b63e942856ad644e50b931, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 44c3b477803340c408145e7345555a85, type: 2}

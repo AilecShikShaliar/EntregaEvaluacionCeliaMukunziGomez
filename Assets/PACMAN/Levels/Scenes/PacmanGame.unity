@@ -3908,8 +3908,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1231995723
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300086, guid: c975a21dfde167844a17806d219e3bdc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -7147,6 +7147,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1668955799}
     m_Modifications:
+    - target: {fileID: 258042586785629267, guid: 05a030de47330f7468315638eacb66eb, type: 3}
+      propertyPath: m_SortingLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 258042586785629267, guid: 05a030de47330f7468315638eacb66eb, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 1231995723
+      objectReference: {fileID: 0}
     - target: {fileID: 2685239350824063820, guid: 05a030de47330f7468315638eacb66eb, type: 3}
       propertyPath: m_LocalScale.x
       value: 12.565255
@@ -10034,8 +10042,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -524060869
+  m_SortingLayer: 3
   m_SortingOrder: 100
   m_Sprite: {fileID: 21300000, guid: c975a21dfde167844a17806d219e3bdc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -14915,8 +14923,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1231995723
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300140, guid: c975a21dfde167844a17806d219e3bdc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -15419,15 +15427,15 @@ RectTransform:
   m_GameObject: {fileID: 1260317876}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.31, y: 2.31, z: 2.31}
+  m_LocalScale: {x: 1.1, y: 0.9588679, z: 0.9588679}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 809226167}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 87, y: -460}
-  m_SizeDelta: {x: 157.7539, y: 50}
+  m_AnchoredPosition: {x: -7, y: -127}
+  m_SizeDelta: {x: 82.8249, y: -32.7139}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1260317878
 MonoBehaviour:
@@ -15512,7 +15520,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 0.0000033608999, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -20742,8 +20750,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1231995723
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300116, guid: c975a21dfde167844a17806d219e3bdc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -22043,8 +22051,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1231995723
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300164, guid: c975a21dfde167844a17806d219e3bdc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -25750,6 +25758,14 @@ PrefabInstance:
     - target: {fileID: 170163497243558930, guid: 288502245e0fa3a43a24a1394a1b2282, type: 3}
       propertyPath: m_Name
       value: Fruit
+      objectReference: {fileID: 0}
+    - target: {fileID: 942394609975466755, guid: 288502245e0fa3a43a24a1394a1b2282, type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 942394609975466755, guid: 288502245e0fa3a43a24a1394a1b2282, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -524060869
       objectReference: {fileID: 0}
     - target: {fileID: 5365382330338304958, guid: 288502245e0fa3a43a24a1394a1b2282, type: 3}
       propertyPath: m_LocalPosition.x
